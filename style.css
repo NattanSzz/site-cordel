@@ -20,7 +20,7 @@ h1 {
     font-variant: small-caps;
     color: white;
     text-align: center;
-    font-size: 8em;
+    font-size: 10vw;
 }
 
 h2 {
@@ -43,7 +43,8 @@ h2 > a:hover {
 section > p {
     font-family: "Sriracha", sans-serif;
     padding: 10vh 5vh 10vh 5vh;
-    font-size: 3em;
+    font-size: 3.5vw;
+    line-height: 2em;
 }
 
 p.sobreposto {
