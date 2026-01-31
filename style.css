@@ -63,6 +63,7 @@ p.sobreposto {
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: inset 0px 6px 13px 0px rgba(0, 0, 0, 0.5);
 }
 
 #livro {
@@ -70,6 +71,7 @@ p.sobreposto {
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
+    box-shadow: inset 0px 6px 13px 0px rgba(0, 0, 0, 0.5);
 }
 
 footer {
