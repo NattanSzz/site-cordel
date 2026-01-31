@@ -41,9 +41,9 @@ h2 > a:hover {
 }
 
 section > p {
-    font-family: "Sriracha", sans-serif;
-    padding: 10vh 5vh 10vh 5vh;
+    font-family: "Sriracha", sans-serif; 
     font-size: 3.5vw;
+    padding: 10vh 5vh 10vh 5vh;
     line-height: 2em;
 }
 
